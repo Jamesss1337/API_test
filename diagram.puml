@@ -1,0 +1,23 @@
+@startuml
+class User {
+    +String fullName
+    +Date birthDate
+    +String phone
+    +String authKey
+}
+
+class Document {
+    +String series
+    +String number
+    +Date issueDate
+}
+
+class Job {
+    +String companyName
+    +String phone
+    +String address
+}
+
+User "1" -- "1" Document : holds >
+User "1" -- "1" Job : has >
+@enduml

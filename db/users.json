@@ -1,0 +1,82 @@
+[
+  {
+    "fullName": "Иванов Иван Иванович",
+    "birthDate": "1990-01-01",
+    "phone": "81234567890",
+    "document": {
+      "series": "1234",
+      "number": "567890",
+      "issueDate": "2020-01-01"
+    },
+    "job": {
+      "companyName": "ООО Рога и Копыта",
+      "phone": "81234567891",
+      "address": "Москва, ул. Ленина, д. 1"
+    },
+    "authKey": "se1RdhTZTML78Tr4"
+  },
+  {
+    "fullName": "Пивчик Яков Геннадьевич",
+    "birthDate": "2002-10-07",
+    "phone": "89137179111",
+    "document": {
+      "series": "0123",
+      "number": "456789",
+      "issueDate": "2020-03-01"
+    },
+    "job": {
+      "companyName": "ООО Ноги-Руки",
+      "phone": "89137679111",
+      "address": "Новосибирск, ул. Кирова, д. 50"
+    },
+    "authKey": "Drh4Nfplfi1ZLvjW"
+  },
+  {
+    "fullName": "Сидоров Алексей Петрович",
+    "birthDate": "1995-12-20",
+    "phone": "89012345678",
+    "document": {
+      "series": "9876",
+      "number": "543210",
+      "issueDate": "2018-04-15"
+    },
+    "job": {
+      "companyName": "ИП Сидоров",
+      "phone": "89098765432",
+      "address": "Санкт-Петербург, ул. Невская, д. 14"
+    },
+    "authKey": "Cv7uGl0GMBrgsKdF"
+  },
+  {
+    "fullName": "Проверка Провер Проверович",
+    "birthDate": "1987-12-20",
+    "phone": "8765432109",
+    "document": {
+      "series": "1337",
+      "number": "019283",
+      "issueDate": "2019-04-25"
+    },
+    "job": {
+      "companyName": "ИП ПРОВЕРКА",
+      "phone": "89092020202",
+      "address": "Прове, ул. Проверковая, д. 77"
+    },
+    "authKey": "9GtOb2sEPnWL23jk"
+  },
+  {
+    "fullName": "Вишня Вишнев Проверович",
+    "birthDate": "2000-12-20",
+    "phone": "888888888",
+    "document": {
+      "series": "1437",
+      "number": "010283",
+      "issueDate": "2010-04-25"
+    },
+    "job": {
+      "companyName": "ИП Вишня",
+      "phone": "89092030202",
+      "address": "Вишня, ул. Вишневая, д. 11"
+    },
+    "authKey": "yP44apxg71zk0hKf"
+  }
+]
